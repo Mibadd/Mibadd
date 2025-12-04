@@ -27,9 +27,6 @@
   <a href="https://www.linkedin.com/in/muhammadibad/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/6281904364257">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -43,11 +40,11 @@
 
 <h3 align="center">⚙️ GitHub Stats</h3>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mibadd&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mibadd&theme=tokyonight" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats-mibadd.vercel.app/api?username=Mibadd&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Mibadd&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mibadd&layout=compact&theme=tokyonight&langs_count=10" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-mibadd.vercel.app/api/top-langs/?username=Mibadd&layout=compact&theme=tokyonight&langs_count=10" alt="Most Used Languages" />
 </p>
 
 ---
