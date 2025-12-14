@@ -73,7 +73,7 @@
 <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mibadd&layout=compact&theme=tokyonight&langs_count=10"
-    width="60%"
+    width="40%"
     alt="Most Used Languages"
   />
 </div>
