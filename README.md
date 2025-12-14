@@ -54,24 +54,29 @@
 ---
 
 <h3 align="center">⚙️ GitHub Stats</h3>
-<p align="center">
-  <img 
-    width="48%" 
-    src="https://github-readme-stats-mibadd.vercel.app/api?username=Mibadd&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats" 
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Mibadd&show_icons=true&theme=tokyonight"
+    width="49%"
+    alt="GitHub Stats"
   />
-  <img 
-    width="48%" 
-    src="https://streak-stats.demolab.com/?user=Mibadd&theme=tokyonight" 
-    alt="GitHub Streak" 
+  <img
+    src="https://streak-stats.demolab.com/?user=Mibadd&theme=tokyonight"
+    width="49%"
+    alt="GitHub Streak"
   />
-</p>
-<p align="center">
-  <img 
-    src="https://github-readme-stats-mibadd.vercel.app/api/top-langs/?username=Mibadd&layout=compact&theme=tokyonight&langs_count=10" 
-    alt="Most Used Languages" 
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mibadd&layout=compact&theme=tokyonight&langs_count=10"
+    width="60%"
+    alt="Most Used Languages"
   />
-</p>
+</div>
 
 ---
 
