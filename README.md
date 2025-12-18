@@ -19,9 +19,9 @@
 
 <h3 align="center">👨‍💻 About Me</h3>
 <p align="center">
-  🚀 Software Engineer dengan hasrat membangun aplikasi web modern & efisien.<br>
-  🌱 Saat ini fokus mendalami Cloud Computing dan arsitektur Microservices.<br>
-  💬 Tanya saya tentang Laravel, React, atau teknologi web lainnya!
+  👨‍💻 Software Engineer yang fokus membangun aplikasi web yang scalable dan maintainable.<br>
+  🛠️ Berpengalaman menggunakan Laravel, React, dan arsitektur REST API dalam pengembangan aplikasi.<br>
+  ☁️ Saat ini mendalami Cloud Computing & Microservices untuk sistem berskala besar.
 </p>
 
 ---
