@@ -18,6 +18,15 @@
   💬 Ajak saya diskusi tentang: <i>Backend Engineering, System Design, & Cloud Architecture.</i>
 </p>
 
+<p align="center">
+  <a href="mailto:mhmmdibad22@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammadibad/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 <h3 align="center">🧰 Tools & Technologies</h3>
@@ -57,13 +66,4 @@
   <strong>
     Open to professional collaboration, long-term projects, and impactful engineering work.
   </strong>
-</p>
-
-<p align="center">
-  <a href="mailto:mhmmdibad22@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammadibad/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
