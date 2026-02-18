@@ -4,6 +4,10 @@
   </a>
 </h1>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" />
+</div>
+
 ---
 
 <h3 align="center">👨‍💻 About Me</h3>
@@ -26,13 +30,35 @@
 
 <h3 align="center">⚙️ GitHub Analytics</h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mibadd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mibadd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mibadd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mibadd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mibadd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
 
 ---
 
-<h3 align="center">📫 Connect With Me</h3>
+<h3 align="center">📈 Contribution History</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mibadd&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<h3 align="center">🐍 Continuous Contribution</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mibadd/Mibadd/output/snake.svg" alt="snake contribution animation"/>
+</p>
+
+---
+
+<p align="center">
+  <strong>
+    Open to professional collaboration, long-term projects, and impactful engineering work.
+  </strong>
+</p>
+
 <p align="center">
   <a href="mailto:mhmmdibad22@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
