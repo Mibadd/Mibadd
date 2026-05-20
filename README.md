@@ -10,7 +10,7 @@
 
 ---
 
-<h3 align="center">👨‍💻 About M</h3>
+<h3 align="center">👨‍💻 About Me</h3>
 <p align="center">
   🚀 <b>Software Engineer</b> dengan fokus pada pengembangan aplikasi web yang <i>scalable</i>.<br>
   🌱 Berpengalaman dalam <b>Laravel & React</b>, saat ini mendalami <b>Cloud Native & Microservices</b> (Docker/K8s).<br>
