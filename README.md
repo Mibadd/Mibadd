@@ -10,11 +10,11 @@
 
 ---
 
-<h3 align="center">👨‍💻 About Me</h3>
+<h3 align="center">👨‍💻 About M</h3>
 <p align="center">
   🚀 <b>Software Engineer</b> dengan fokus pada pengembangan aplikasi web yang <i>scalable</i>.<br>
   🌱 Berpengalaman dalam <b>Laravel & React</b>, saat ini mendalami <b>Cloud Native & Microservices</b> (Docker/K8s).<br>
-  🎯 Tujuan saya: membangun sistem yang tidak hanya berfungsi, tetapi juga efisien dan mudah dipelihara.<br>
+  🎯 Tujuan saya: Membangun sistem yang tidak hanya berfungsi, tetapi juga efisien dan mudah dipelihara.<br>
   💬 Ajak saya diskusi tentang: <i>Backend Engineering, System Design, & Cloud Architecture.</i>
 </p>
 
