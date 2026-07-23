@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=79F2B0&center=true&vCenter=true&width=500&lines=Muhammad+Ibad;Software+Engineer;Cloud+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=70A5FDFF&center=true&vCenter=true&width=500&lines=Muhammad+Ibad;Software+Engineer;Cloud+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -22,7 +22,7 @@
   <a href="mailto:mhmmdibad22@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammadibad/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-ibad-b47583410/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -40,7 +40,7 @@
 <h3 align="center">⚙️ GitHub Analytics</h3>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mibadd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mibadd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Mibadd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mibadd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
