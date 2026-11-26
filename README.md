@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center">👨‍💻 About Me</h3>
+<h3 align="center">👨‍💻 About </h3>
 <p align="center">
   🚀 <b>Software Engineer</b> focused on building <i>scalable</i> web applications.<br>
   🌱 Experienced with <b>Laravel &amp; React</b>, currently exploring <b>Cloud Native &amp; Microservices</b> (Docker/K8s).<br>
